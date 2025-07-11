@@ -10,6 +10,8 @@ This project demonstrates how to enhance blurry images using a student-teacher n
 🖼️ Enhanced output image saving
 📂 Generates a PDF report with training metrics and SSIM score
 ✅ Achieved 94.66% average SSIM
+
+
 📊 Result Summary
 ✅ Average SSIM: 94.66%
 📑 PDF Report Generated: report.pdf
