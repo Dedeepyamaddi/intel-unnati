@@ -35,16 +35,21 @@ This project demonstrates how to enhance blurry images using a student-teacher n
 
 
 🛠️ Technologies Used
-Python
-PyTorch
-PIL & OpenCV
-scikit-image (SSIM)
-FPDF (for PDF generation)
-Google Colab (Execution Environment)
+
+Python,
+PyTorch,
+PIL & OpenCV,
+scikit-image (SSIM),
+FPDF (for PDF generation),
+Google Colab (Execution Environment).
 
 
 📄 Output Examples
+
 Enhanced images: enhanced_output/
+
 SSIM JSON: mos_feedback.json
+
 Model: student_model.pth
+
 PDF Report: report.pdf
